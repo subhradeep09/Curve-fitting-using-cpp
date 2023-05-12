@@ -1,1 +1,1 @@
-# Curve-fitting-using-cpp
+# Curve-fitting-using-c++
