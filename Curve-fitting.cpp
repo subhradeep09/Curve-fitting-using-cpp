@@ -63,6 +63,10 @@ int main() {
     cout << "Slope: " << slope << endl;
     cout << "Intercept: " << intercept << endl;
 
+    // Calculate radius of curvature
+    double R = abs(1.0 / slope);
+    cout << "Radius of curvature: " << R << endl;
+
     // Print equation of line
     cout << "Equation of line: y = " << slope << "x + " << intercept << endl;
 
